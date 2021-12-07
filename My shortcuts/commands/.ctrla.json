@@ -1,11 +1,9 @@
 {
     "type": "script",
-    "description": "o",
+    "description": "ctrl+a",
     "store": {},
-    "modes": [
-        3
-    ],
-    "usageCount": 17,
+    "modes": [],
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -21,7 +19,7 @@
         "modifiers": [
             "<alt>"
         ],
-        "hotKey": "o"
+        "hotKey": "c"
     },
     "filter": {
         "regex": null,

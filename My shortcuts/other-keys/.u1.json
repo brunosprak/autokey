@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "o",
+    "description": "u",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 17,
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -21,7 +21,7 @@
         "modifiers": [
             "<alt>"
         ],
-        "hotKey": "o"
+        "hotKey": "u"
     },
     "filter": {
         "regex": null,

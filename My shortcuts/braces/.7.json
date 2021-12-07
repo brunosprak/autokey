@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "h",
+    "description": ")",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 17,
+    "usageCount": 16,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -21,7 +21,7 @@
         "modifiers": [
             "<alt>"
         ],
-        "hotKey": "h"
+        "hotKey": "n"
     },
     "filter": {
         "regex": null,

@@ -1,6 +1,6 @@
 {
     "type": "script",
-    "description": "pgdown",
+    "description": "ctrl+shift+pgdown",
     "store": {},
     "modes": [
         3
@@ -19,7 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<meta>"
+            "<ctrl>",
+            "<meta>",
+            "<shift>"
         ],
         "hotKey": "o"
     },

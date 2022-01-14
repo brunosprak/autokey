@@ -1,6 +1,6 @@
 {
     "type": "script",
-    "description": "pgdown",
+    "description": "ctt+shift+u",
     "store": {},
     "modes": [
         3
@@ -19,9 +19,11 @@
     },
     "hotkey": {
         "modifiers": [
-            "<meta>"
+            "<alt>",
+            "<ctrl>",
+            "<shift>"
         ],
-        "hotKey": "o"
+        "hotKey": "u"
     },
     "filter": {
         "regex": null,

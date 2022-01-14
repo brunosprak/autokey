@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "pgdown",
+    "description": "ctrl+pgdown",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 0,
+    "usageCount": 11,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -19,6 +19,7 @@
     },
     "hotkey": {
         "modifiers": [
+            "<ctrl>",
             "<meta>"
         ],
         "hotKey": "o"

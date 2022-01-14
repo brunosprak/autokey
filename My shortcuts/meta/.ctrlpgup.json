@@ -1,6 +1,6 @@
 {
     "type": "script",
-    "description": "pgdown",
+    "description": "ctrl+pgup",
     "store": {},
     "modes": [
         3
@@ -19,9 +19,10 @@
     },
     "hotkey": {
         "modifiers": [
+            "<ctrl>",
             "<meta>"
         ],
-        "hotKey": "o"
+        "hotKey": "u"
     },
     "filter": {
         "regex": null,

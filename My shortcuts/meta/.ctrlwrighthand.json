@@ -1,6 +1,6 @@
 {
     "type": "script",
-    "description": "alttab",
+    "description": "ctrl+w+righthand",
     "store": {},
     "modes": [
         3
@@ -21,7 +21,7 @@
         "modifiers": [
             "<meta>"
         ],
-        "hotKey": "\u00e7"
+        "hotKey": "i"
     },
     "filter": {
         "regex": null,

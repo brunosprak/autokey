@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "cpy",
+    "description": "enter",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 2,
+    "usageCount": 3,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
